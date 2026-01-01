@@ -27,7 +27,7 @@ const {
 
 // ---------------- CONFIG ----------------
 
-const BOT_NAME_FANCY = '𝐐𝐔𝐄𝐄𝐍-𝐀𝐒𝐇𝐀 𝐌𝐈𝐍𝐈';
+const BOT_NAME_FANCY = '𝐑𝐀𝐙𝐎𝐑 𝐌𝐈𝐍𝐈 𝐁𝐎𝐓 𝐕1';
 
 const config = {
   AUTO_VIEW_STATUS: 'false',
@@ -36,17 +36,17 @@ const config = {
   AUTO_LIKE_EMOJI: ['🔥','😀','👍','😃','😄','😁','😎','🥳','🌞','🌈','❤️'],
   PREFIX: '.',
   MAX_RETRIES: 3,
-  GROUP_INVITE_LINK: 'https://chat.whatsapp.com/LMlfzAc3iDj2pdQMmxwoXu',
+  GROUP_INVITE_LINK: 'https://whatsapp.com/channel/0029VbBs4pl8vd1KQD0TlY0f',
   RCD_IMAGE_PATH: 'https://files.catbox.moe/fnuywi.jpg',
   NEWSLETTER_JID: '120363421675697127@newsletter',
   OTP_EXPIRY: 300000,
-  OWNER_NUMBER: process.env.OWNER_NUMBER || '94770051298',
-  CHANNEL_LINK: 'https://whatsapp.com/channel/0029Vb6FwIK89inhtCZOlp12',
-  BOT_NAME: 'QUEEN ASHA MINI BOT',
+  OWNER_NUMBER: process.env.OWNER_NUMBER || '94767330919',
+  CHANNEL_LINK: 'https://whatsapp.com/channel/0029VbBs4pl8vd1KQD0TlY0f',
+  BOT_NAME: '𝐃𝐓𝐙 𝐑𝐀𝐙𝐎𝐑 𝐌𝐃 𝐌𝐈𝐍𝐈 𝐁𝐎𝐓',
   BOT_VERSION: '1.0.0V',
-  OWNER_NAME: 'Kavindu • Ishan',
+  OWNER_NAME: '𝐓𝐇𝐄𝐉𝐀𝐍 𝐆𝐈𝐌𝐇𝐀𝐍𝐀',
   IMAGE_PATH: 'https://files.catbox.moe/fnuywi.jpg',
-  BOT_FOOTER: '𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐐𝐔𝐄𝐄𝐍-𝐀𝐒𝐇𝐀 𝐌𝐈𝐍𝐈 👸',
+  BOT_FOOTER: '𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐃𝐓𝐙 𝐑𝐀𝐙𝐎𝐑 𝐌𝐃 𝐌𝐈𝐍𝐈 🗿',
   BUTTON_IMAGES: { ALIVE: 'https://files.catbox.moe/fnuywi.jpg' }
 };
 
